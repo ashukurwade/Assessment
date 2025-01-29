@@ -1,0 +1,6 @@
+INFO: System started
+ERROR: Failed to connect to database
+WARNING: Disk space low
+ERROR: Invalid user input
+INFO: System shutdown
+
