@@ -1,0 +1,5 @@
+127.0.0.1 - - [06/Feb/2025:10:15:32] "GET /index.html HTTP/1.1" 200 OK
+127.0.0.1 - - [06/Feb/2025:10:16:10] "GET /about.html HTTP/1.1" 404 Not Found
+127.0.0.1 - - [06/Feb/2025:10:17:45] "GET /contact.html HTTP/1.1" 500 Internal Server Error
+127.0.0.1 - - [06/Feb/2025:10:18:20] "GET /home.html HTTP/1.1" 200 OK
+127.0.0.1 - - [06/Feb/2025:10:19:05] "GET /missing.html HTTP/1.1" 404 Not Found
