@@ -1,0 +1,5 @@
+2023-10-01 12:00:00 INFO System started.
+2023-10-01 12:05:00 WARN Disk usage above 80%.
+2023-10-01 12:10:00 ERROR Failed to connect to database.
+2023-10-01 12:15:00 INFO Backup completed.
+2023-10-01 12:20:00 ERROR Unable to read configuration file.
